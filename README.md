@@ -1,2 +1,2 @@
-# ML_MODELS-and-Their-Accuracy
+# ML_MODELS-and-their-Accuracy
 It contains a comparison of ML models and their respective accuracies
